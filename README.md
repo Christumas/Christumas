@@ -24,3 +24,4 @@
 | 🧪 For Academia | JsPsych, PsychoPy |
 | 🔧 Version Control | Git |
 | :hammer:    Tools         | Docker |
+| 🖼️: Frameworks | React (basics), Bootstrap|

@@ -4,8 +4,8 @@
 
 <p align="left">
   🚀 Aspiring Software Developer & Computational Neuroscience Master's Student<br>
-  💻 Passionate about code and I hope to build things that would make people's lives easier<br>
-  📍 Currently Based in Germany|
+  💻 Budding developer and I hope to build things that would make people's lives easier (and mine).<br>
+  📍 Currently Based in Germany
 </p>
 
 ### 🧠 About Me

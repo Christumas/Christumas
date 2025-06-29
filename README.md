@@ -3,8 +3,8 @@
 <h1 align="left">Hi there! I'm Rishi 👋</h1>
 
 <p align="left">
-  🚀 Aspiring Software Developer & Computational Neuroscience Master's Student<br>
-  💻 Budding developer and I hope to build things that would make people's lives easier (and mine).<br>
+  🚀Budding developer and I hope to build things that would make people's lives easier (and mine). <br>
+  👀 Looking for **graduate/trainee roles** in frontend and backend or data-focused environments.
   📍 Currently Based in Germany
 </p>
 
@@ -13,7 +13,7 @@
 - 🔍 Experience creating browser-based experiments using **JavaScript, HTML, and CSS**
 - 📊 Background in **statistics**, **data analysis** using **Python** 
 - 🌱 Currently self-learning front-end and back-end technologies 
-- 👀 Looking for **graduate/trainee roles** in frontend and backend or data-focused environments
+
 
  ### 💡 Technical Skills
  

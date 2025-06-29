@@ -9,11 +9,11 @@
 </p>
 
 ### 🧠 About Me
-- 🎓 Finalizing my Master's thesis in **Computational Neuroscience** 
+- 🎓 Master's Graduate in Bioscienes with a focus on **Neuroscience** and **Behaviour** 
 - 🔍 Experience creating browser-based experiments using **JavaScript, HTML, and CSS**
 - 📊 Background in **statistics**, **data analysis** using **Python** 
 - 🌱 Currently self-learning front-end and back-end technologies 
-- 👀 Looking for **graduate/trainee roles** in software or data-focused environments
+- 👀 Looking for **graduate/trainee roles** in frontend and backend or data-focused environments
 
  ### 💡 Technical Skills
  

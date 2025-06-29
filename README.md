@@ -22,7 +22,7 @@
 | 💻 Programming | Python, JavaScript (ES6), HTML, CSS, MATLAB |
 | 💻 Backend| Node JS, Express |
 | 📊 Data & Stats | Pandas, NumPy, SciPy, Seaborn |
-| 🧪 For Academia | JsPsych, PsychoPy |
+| 🧪 Frameworks for Academia | JsPsych, PsychoPy |
 | 🔧 Version Control | Git |
 | :hammer:    Tools         | Docker |
 | 🖼️: Frameworks | React (basics), Bootstrap|

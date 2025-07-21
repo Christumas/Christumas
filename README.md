@@ -19,10 +19,11 @@
  
 | Language/Tool | Skills |
 |---------------|--------|
-| 💻 Programming | Python, JavaScript (ES6), HTML, CSS, MATLAB |
+| 💻 Languages| Python, JavaScript (ES6), HTML, CSS, MATLAB |
+| 🎀 Frontend|  JavaScript (ES6), HTML, CSS, React, jQuery, Bootstrap |
 | 💻 Backend| Node JS, Express |
 | 📊 Data & Stats | Pandas, NumPy, SciPy, Seaborn |
 | 🧪 Frameworks for Academia | JsPsych, PsychoPy |
 | 🔧 Version Control | Git |
-| :hammer:    Tools         | Docker |
-| 🖼️: Frameworks | React (basics), Bootstrap|
+| :hammer: Tools | Docker |
+| 
